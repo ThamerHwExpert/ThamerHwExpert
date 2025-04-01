@@ -7,9 +7,9 @@
   <a href="mailto:Ct.formationelectronic@gmail.com">Email Me</a>
 </p>
 
-<p align="center">
+
 ![banner](https://github.com/user-attachments/assets/6d7059e7-fee9-4ad4-a7f9-7529a725546a)
-</p>
+
 
 
 <p align="center">
