@@ -8,13 +8,11 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThamerHwExpert&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="banner.png" alt="Thamer HW-Expert Banner" width="100%"/>
 </p>
 
----
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThamerHwExpert/ThamerHwExpert/main/banner.png" alt="Thamer HW-Expert Banner"/>
+  <img src="https://komarev.com/ghpvc/?username=ThamerHwExpert&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
@@ -28,7 +26,7 @@ I’m an **advanced PCB design trainer** and **hardware systems expert**, helpin
 ## 🎯 What I Offer
 
 - ✅ Advanced PCB Design Training with **Altium Designer**
-- ✅ Embedded Software Development Courses using **STM32**, **ATmega328P**
+- ✅ Embedded Software Development Courses for **ARM & AVR MCUs** (STM32, ATmega328P)
 - ✅ Hands-on Workshops & Coaching (online and in-person)
 - ✅ Custom technical programs for universities & tech companies
 - ✅ Python-based tooling for embedded testing and automation
