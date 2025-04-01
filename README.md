@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com](https://github.com/ThamerHwExpert/ThamerHwExpert/blob/daf6294d168f260ce8f2a2e9dbba6900bf25da22/banner.png)/your-generated-url" alt="Thamer HW-Expert Banner" width="100%"/>
+![Image](https://github.com/user-attachments/assets/70c5f403-8231-4914-8b71-92e6b787eb84)
 </p>
 
 
