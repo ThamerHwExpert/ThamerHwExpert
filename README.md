@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ThamerHwExpert/ThamerHwExpert/main/banner.png" alt="Thamer HW-Expert Banner" width="100%"/>
+  ![banner](https://github.com/user-attachments/assets/eb4f482e-ef6f-4679-a5a4-97bb83930241)
 </p>
+
 
 
 
