@@ -8,8 +8,9 @@
 </p>
 
 <p align="center">
-  <img src="banner.png" alt="Thamer HW-Expert Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/ThamerHwExpert/ThamerHwExpert/main/banner.png" alt="Thamer HW-Expert Banner" width="100%"/>
 </p>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThamerHwExpert&style=flat-square&color=blue" alt="Profile views"/>
