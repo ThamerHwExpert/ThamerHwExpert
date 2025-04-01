@@ -8,11 +8,8 @@
 </p>
 
 <p align="center">
-  ![banner](https://github.com/user-attachments/assets/eb4f482e-ef6f-4679-a5a4-97bb83930241)
+  <img src="./banner.png" alt="Thamer HW-Expert Banner" width="100%"/>
 </p>
-
-
-
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ThamerHwExpert&style=flat-square&color=blue" alt="Profile views"/>
