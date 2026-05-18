@@ -99,7 +99,6 @@ I am building a portfolio that shows not only final results, but also the real e
 
 ## Contact
 
-- Email: chebbythamer@gmail.com
-- LinkedIn: {LINKEDIN}
-- Portfolio: {PORTFOLIO_URL}
-- GitHub: https://github.com/{GITHUB_USERNAME}
+- Email: ct.formationelectronic@@gmail.com
+- LinkedIn: [{LINKEDIN}](https://www.linkedin.com/in/thameur-chebbi-b9157b167/)
+- GitHub: https://github.com/ThamerHwExpert
