@@ -1,70 +1,105 @@
-<h1 align="center">👋 I'm Thameur Chebbi — <span style="color:#FFA500;">Thamer HW-Expert</span></h1>
+# Hi, I'm Thameur CHEBBI
 
-<p align="center">
-  <strong>Advanced PCB Design Trainer | Hardware Expert | Embedded C Developer (STM32 & ATmega)</strong><br>
-  <a href="https://www.facebook.com/share/1HedRLSjV4/">Facebook</a> • 
-  <a href="https://www.linkedin.com/in/thameur-chebbi-b9157b167">LinkedIn</a> • 
-  <a href="mailto:Ct.formationelectronic@gmail.com">Email Me</a>
-</p>
+**Hardware Design Engineer | PCB Design | Embedded Systems | Python Tools**
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/dd9b067a-be77-4464-8e80-bcb7494a70ba" alt="banner" />
-</p>
-
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThamerHwExpert&style=flat-square&color=blue" alt="Profile views"/>
-</p>
+I build and document practical engineering projects around PCB design, embedded systems, hardware validation, and automation tools.
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m an **advanced PCB design trainer** and **hardware systems expert**, helping engineers and students master everything from PCB layout to embedded C development. I combine **real-world experience** with a passion for teaching and mentoring.
+I am a hardware and embedded systems engineer focused on:
 
----
-
-## 🎯 What I Offer
-
-- ✅ Advanced PCB Design Training with **Altium Designer**
-- ✅ Embedded Software Development Courses for **ARM & AVR MCUs** (STM32, ATmega328P)
-- ✅ Hands-on Workshops & Coaching (online and in-person)
-- ✅ Custom technical programs for universities & tech companies
-- ✅ Python-based tooling for embedded testing and automation
+- PCB design and layout
+- Embedded C and microcontrollers
+- Power electronics
+- Hardware validation
+- Test automation
+- Engineering training and technical documentation
 
 ---
 
-## 🧰 Tools & Technologies
+## Current Focus
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Altium-FF6C37?style=for-the-badge&logo=altiumdesigner&logoColor=white"/>
-  <img src="https://img.shields.io/badge/KiCad-314CB6?style=for-the-badge&logo=kicad&logoColor=white"/>
-  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FPGA-1E90FF?style=for-the-badge&logo=verilog&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Atmel-Microcontroller-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
+- Building a public engineering portfolio
+- Publishing PCB and embedded systems projects
+- Creating useful Python tools for hardware engineers
+- Documenting real design workflows from concept to validation
 
 ---
 
-## 📚 Courses I Teach
+## Featured Projects
 
-- **Advanced PCB Design using Altium Designer**
-- **Embedded C Programming for ARM & AVR MCUs (STM32, ATmega328P)**
-- **STM32 Development with HAL & Low-Level APIs**
-- **Python GUI Tools for Embedded Systems Debugging**
+### Industrial Embedded Reference Board
 
----
+Training/demo board for embedded hardware, power electronics, sensing, communication, and validation.
 
-## 💬 Philosophy
-
-> “Empowering engineers through advanced knowledge.”
+Status: In progress
 
 ---
 
-<p align="center">
-  Let's connect and bring your hardware and embedded skills to the next level!
-</p>
+### PCB Design Rules Toolkit
+
+A structured design-rules and constraints framework for Altium Designer projects.
+
+Status: In progress
+
+---
+
+### Embedded C Training Examples
+
+Low-level embedded C examples for microcontrollers and hardware control.
+
+Status: Planned
+
+---
+
+### Hardware Engineering Tools
+
+Python-based tools for PCB, power, timing, and embedded development workflows.
+
+Status: Planned
+
+---
+
+## Tech Stack
+
+**Hardware**
+
+- Altium Designer
+- LTspice
+- Oscilloscope / lab validation
+- PCB layout
+- Power electronics
+- Embedded hardware
+
+**Firmware / Software**
+
+- C
+- Python
+- STM32
+- ATmega328P
+- HTML / CSS / JavaScript basics
+- Git / GitHub
+
+---
+
+## What I'm Proud Of
+
+I am building a portfolio that shows not only final results, but also the real engineering process:
+
+- requirements
+- architecture
+- schematic decisions
+- PCB constraints
+- validation strategy
+- test documentation
+
+---
+
+## Contact
+
+- Email: chebbythamer@gmail.com
+- LinkedIn: {LINKEDIN}
+- Portfolio: {PORTFOLIO_URL}
+- GitHub: https://github.com/{GITHUB_USERNAME}
