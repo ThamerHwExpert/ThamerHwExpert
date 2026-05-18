@@ -100,5 +100,5 @@ I am building a portfolio that shows not only final results, but also the real e
 ## Contact
 
 - Email: ct.formationelectronic@@gmail.com
-- LinkedIn: [{LINKEDIN}](https://www.linkedin.com/in/thameur-chebbi-b9157b167/)
+- LinkedIn: https://www.linkedin.com/in/thameur-chebbi-b9157b167/
 - GitHub: https://github.com/ThamerHwExpert
