@@ -1,105 +1,61 @@
-# Hi, I'm Thameur CHEBBI
+Thameur Chebbi
 
-**Hardware Design Engineer | PCB Design | Embedded Systems | Python Tools**
+Hardware Development Engineer
 
-I build and document practical engineering projects around PCB design, embedded systems, hardware validation, and automation tools.
+Electronics Hardware · PCB Design · High-Speed Digital · Power · SI/PI · Embedded Hardware · DFM/DFT · Hardware Validation
 
----
+I design, develop and validate electronic hardware from system architecture and schematic capture through PCB implementation, bring-up, debugging and production readiness.
 
-## About Me
+My work focuses on practical engineering decisions: requirements, interfaces, power architecture, component selection, PCB constraints, signal and power integrity, manufacturability, testability and validation.
 
-I am a hardware and embedded systems engineer focused on:
+Engineering Focus
 
-- PCB design and layout
-- Embedded C and microcontrollers
-- Power electronics
-- Hardware validation
-- Test automation
-- Engineering training and technical documentation
+- Hardware architecture and schematic design
+- Multilayer PCB design and layout
+- High-speed digital hardware
+- Power architecture and power distribution
+- Signal integrity and power integrity
+- Embedded hardware and interfaces
+- Hardware bring-up and debugging
+- DFM / DFA / DFT
+- Validation and test strategy
+- Technical documentation and engineering training
 
----
+Selected Engineering Work
 
-## Current Focus
+I am building a curated portfolio of engineering case studies covering:
 
-- Building a public engineering portfolio
-- Publishing PCB and embedded systems projects
-- Creating useful Python tools for hardware engineers
-- Documenting real design workflows from concept to validation
+- FPGA / PCIe hardware
+- CubeSat electrical power systems
+- Industrial electronics and I/O
+- Embedded interface validation
+- PCB signal and power integrity
+- Hardware debugging and root-cause analysis
 
----
+Projects based on professional work are recreated and sanitized to protect confidential and proprietary information.
 
-## Featured Projects
+Engineering Approach
 
-### Industrial Embedded Reference Board
+My portfolio focuses on the engineering process, not only the final PCB:
 
-Training/demo board for embedded hardware, power electronics, sensing, communication, and validation.
+Requirements → Architecture → Design Decisions → Schematic → PCB Constraints → Implementation → Bring-up → Measurement → Debugging → Validation
 
-Status: In progress
+Tools & Technologies
 
----
+Hardware & PCB
 
-### PCB Design Rules Toolkit
+Altium Designer · LTspice · Oscilloscope · DMM · Electronic Load · Laboratory Power Supplies
 
-A structured design-rules and constraints framework for Altium Designer projects.
+Embedded & Interfaces
 
-Status: In progress
+STM32 · C · SPI · I²C · UART · ADC / DAC · FPGA / PCIe hardware
 
----
+Engineering & Automation
 
-### Embedded C Training Examples
+Python · Git · GitHub · Technical documentation
 
-Low-level embedded C examples for microcontrollers and hardware control.
+Thamer HW-Expert
 
-Status: Planned
+This GitHub is the engineering workspace behind Thamer HW-Expert: practical hardware design, PCB engineering, validation, technical studies, tools and training.
 
----
-
-### Hardware Engineering Tools
-
-Python-based tools for PCB, power, timing, and embedded development workflows.
-
-Status: Planned
-
----
-
-## Tech Stack
-
-**Hardware**
-
-- Altium Designer
-- LTspice
-- Oscilloscope / lab validation
-- PCB layout
-- Power electronics
-- Embedded hardware
-
-**Firmware / Software**
-
-- C
-- Python
-- STM32
-- ATmega328P
-- HTML / CSS / JavaScript basics
-- Git / GitHub
-
----
-
-## What I'm Proud Of
-
-I am building a portfolio that shows not only final results, but also the real engineering process:
-
-- requirements
-- architecture
-- schematic decisions
-- PCB constraints
-- validation strategy
-- test documentation
-
----
-
-## Contact
-
-- Email: ct.formationelectronic@@gmail.com
-- LinkedIn: https://www.linkedin.com/in/thameur-chebbi-b9157b167/
-- Portfolio: https://thamerhwexpert.github.io/portfolio-site/
-- GitHub: https://github.com/ThamerHwExpert
+"LinkedIn" (https://www.linkedin.com/in/thameur-chebbi-b9157b167/) · "Portfolio" (https://thamerhwexpert.github.io/portfolio-site/)
